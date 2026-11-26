@@ -1,72 +1,172 @@
 [
- {
-  "slug": "thedetailpluglv",
-  "name": "TheDetailPlugLV",
-  "instagram": "thedetailpluglv",
-  "niche": "detailer",
-  "date": "2026-11-25",
-  "status": "previewed",
-  "source": "https://booksy.com/en-us/753638_thedetailpluglv_professional-services_29251_las-vegas",
-  "domain": "thedetailpluglv.vercel.app"
- },
- {
-  "slug": "floralsslv",
-  "name": "Florals LV",
-  "instagram": "floralsslv",
-  "niche": "florist",
-  "date": "2026-11-25",
-  "status": "previewed",
-  "source": "instagram bio",
-  "domain": "floralsslv.vercel.app"
- },
- {
-  "slug": "madebyychloee",
-  "name": "Made Byy Chloe",
-  "instagram": "madebyychloee",
-  "niche": "florist",
-  "date": "2026-11-25",
-  "status": "previewed",
-  "source": "instagram bio",
-  "domain": "madebyychloee.vercel.app"
- },
- {
-  "slug": "floresbymell-lv",
-  "name": "Flores by Mell",
-  "instagram": "floresbymell.lv",
-  "niche": "florist",
-  "date": "2026-11-25",
-  "status": "previewed",
-  "source": "instagram bio",
-  "domain": "floresbymell.vercel.app"
- },
- {
-  "slug": "ramos-by-jos",
-  "name": "Ramos by Jos",
-  "instagram": "ramos.by.jos__",
-  "niche": "florist",
-  "date": "2026-11-25",
-  "status": "previewed",
-  "source": "instagram bio",
-  "domain": "ramosbyjos.vercel.app"
- },
- {
-  "slug": "chulas-creations",
-  "name": "Chula's Creations",
-  "instagram": "chulascreationss",
-  "niche": "florist",
-  "date": "2026-11-25",
-  "status": "previewed",
-  "source": "instagram bio",
-  "domain": "chulascreations.vercel.app"
- },
- {
-  "slug": "yamis-flowers",
-  "name": "Yami's Flowers",
-  "instagram": "ramosby.yami",
-  "niche": "florist",
-  "date": "2026-11-25",
-  "status": "previewed",
-  "source": "instagram bio",
-  "domain": "yamisflowers.vercel.app"
- }
+  {
+    "slug": "thedetailpluglv",
+    "name": "TheDetailPlugLV",
+    "instagram": "thedetailpluglv",
+    "niche": "detailer",
+    "date": "2026-11-25",
+    "status": "previewed",
+    "source": "https://booksy.com/en-us/753638_thedetailpluglv_professional-services_29251_las-vegas",
+    "domain": "thedetailpluglv.vercel.app"
+  },
+  {
+    "slug": "floralsslv",
+    "name": "Florals LV",
+    "instagram": "floralsslv",
+    "niche": "florist",
+    "date": "2026-11-25",
+    "status": "previewed",
+    "source": "instagram bio",
+    "domain": "floralsslv.vercel.app"
+  },
+  {
+    "slug": "madebyychloee",
+    "name": "Made Byy Chloe",
+    "instagram": "madebyychloee",
+    "niche": "florist",
+    "date": "2026-11-25",
+    "status": "previewed",
+    "source": "instagram bio",
+    "domain": "madebyychloee.vercel.app"
+  },
+  {
+    "slug": "floresbymell-lv",
+    "name": "Flores by Mell",
+    "instagram": "floresbymell.lv",
+    "niche": "florist",
+    "date": "2026-11-25",
+    "status": "previewed",
+    "source": "instagram bio",
+    "domain": "floresbymell.vercel.app"
+  },
+  {
+    "slug": "ramos-by-jos",
+    "name": "Ramos by Jos",
+    "instagram": "ramos.by.jos__",
+    "niche": "florist",
+    "date": "2026-11-25",
+    "status": "previewed",
+    "source": "instagram bio",
+    "domain": "ramosbyjos.vercel.app"
+  },
+  {
+    "slug": "chulas-creations",
+    "name": "Chula's Creations",
+    "instagram": "chulascreationss",
+    "niche": "florist",
+    "date": "2026-11-25",
+    "status": "previewed",
+    "source": "instagram bio",
+    "domain": "chulascreations.vercel.app"
+  },
+  {
+    "slug": "yamis-flowers",
+    "name": "Yami's Flowers",
+    "instagram": "ramosby.yami",
+    "niche": "florist",
+    "date": "2026-11-25",
+    "status": "previewed",
+    "source": "instagram bio",
+    "domain": "yamisflowers.vercel.app"
+  },
+  {
+    "slug": "house-of-blossoms",
+    "name": "House Of Blossoms",
+    "instagram": "houseofblossomsss",
+    "niche": "florist",
+    "date": "2026-11-26",
+    "status": "found",
+    "source": "web search (bio not verified - no Chrome)",
+    "domain": "houseofblossoms.vercel.app"
+  },
+  {
+    "slug": "lv-arrangements",
+    "name": "Lv.arrangements",
+    "instagram": "lv.arrangements",
+    "niche": "florist",
+    "date": "2026-11-26",
+    "status": "found",
+    "source": "web search (bio not verified - no Chrome)",
+    "domain": "lvarrangements.vercel.app"
+  },
+  {
+    "slug": "flower-boxes-lv",
+    "name": "Flower Boxes LV",
+    "instagram": "flowerboxeslv",
+    "niche": "florist",
+    "date": "2026-11-26",
+    "status": "found",
+    "source": "web search (bio not verified - no Chrome)",
+    "domain": "flowerboxeslv.vercel.app"
+  },
+  {
+    "slug": "flores-flowers-lv",
+    "name": "Flores Flowers",
+    "instagram": "floresflowerslv",
+    "niche": "florist",
+    "date": "2026-11-26",
+    "status": "found",
+    "source": "web search (bio not verified - no Chrome)",
+    "domain": "floresflowerslv.vercel.app"
+  },
+  {
+    "slug": "vista-flowers",
+    "name": "Vista Flowers",
+    "instagram": "vista.flowers.lasvegas",
+    "niche": "florist",
+    "date": "2026-11-26",
+    "status": "found",
+    "source": "web search (bio not verified - no Chrome)",
+    "domain": "vistaflowerslv.vercel.app"
+  },
+  {
+    "slug": "flores-by-ramos-lv",
+    "name": "Flores by Ramos (Michelle Ramos)",
+    "instagram": "floresbyramoslv",
+    "niche": "florist",
+    "date": "2026-11-26",
+    "status": "found",
+    "source": "web search (bio not verified - no Chrome)",
+    "domain": "floresbyramoslv.vercel.app"
+  },
+  {
+    "slug": "blooming-memory",
+    "name": "Blooming Memory",
+    "instagram": "bloomingmemorylv",
+    "niche": "florist",
+    "date": "2026-11-26",
+    "status": "found",
+    "source": "web search (bio not verified - no Chrome)",
+    "domain": "bloomingmemorylv.vercel.app"
+  },
+  {
+    "slug": "luxury-roses-lv",
+    "name": "The Luxury Roses Las Vegas",
+    "instagram": "theluxuryroseslv",
+    "niche": "florist",
+    "date": "2026-11-26",
+    "status": "found",
+    "source": "web search (bio not verified - no Chrome)",
+    "domain": "luxuryroseslv.vercel.app"
+  },
+  {
+    "slug": "le-fleuriste",
+    "name": "Le Fleuriste",
+    "instagram": "lefleuriste11",
+    "niche": "florist",
+    "date": "2026-11-26",
+    "status": "found",
+    "source": "web search (bio not verified - no Chrome)",
+    "domain": "lefleuristelv.vercel.app"
+  },
+  {
+    "slug": "melxsweets",
+    "name": "MELXSWEETS",
+    "instagram": "melxsweets",
+    "niche": "sweets",
+    "date": "2026-11-26",
+    "status": "found",
+    "source": "web search (bio not verified - no Chrome)",
+    "domain": "melxsweets.vercel.app"
+  }
 ]
