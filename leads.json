@@ -6,7 +6,8 @@
   "niche": "detailer",
   "date": "2026-11-25",
   "status": "previewed",
-  "source": "https://booksy.com/en-us/753638_thedetailpluglv_professional-services_29251_las-vegas"
+  "source": "https://booksy.com/en-us/753638_thedetailpluglv_professional-services_29251_las-vegas",
+  "domain": "thedetailpluglv.vercel.app"
  },
  {
   "slug": "floralsslv",
@@ -15,7 +16,8 @@
   "niche": "florist",
   "date": "2026-11-25",
   "status": "previewed",
-  "source": "instagram bio"
+  "source": "instagram bio",
+  "domain": "floralsslv.vercel.app"
  },
  {
   "slug": "madebyychloee",
@@ -24,7 +26,8 @@
   "niche": "florist",
   "date": "2026-11-25",
   "status": "previewed",
-  "source": "instagram bio"
+  "source": "instagram bio",
+  "domain": "madebyychloee.vercel.app"
  },
  {
   "slug": "floresbymell-lv",
@@ -33,7 +36,8 @@
   "niche": "florist",
   "date": "2026-11-25",
   "status": "previewed",
-  "source": "instagram bio"
+  "source": "instagram bio",
+  "domain": "floresbymell.vercel.app"
  },
  {
   "slug": "ramos-by-jos",
@@ -42,7 +46,8 @@
   "niche": "florist",
   "date": "2026-11-25",
   "status": "previewed",
-  "source": "instagram bio"
+  "source": "instagram bio",
+  "domain": "ramosbyjos.vercel.app"
  },
  {
   "slug": "chulas-creations",
@@ -51,7 +56,8 @@
   "niche": "florist",
   "date": "2026-11-25",
   "status": "previewed",
-  "source": "instagram bio"
+  "source": "instagram bio",
+  "domain": "chulascreations.vercel.app"
  },
  {
   "slug": "yamis-flowers",
@@ -60,6 +66,7 @@
   "niche": "florist",
   "date": "2026-11-25",
   "status": "previewed",
-  "source": "instagram bio"
+  "source": "instagram bio",
+  "domain": "yamisflowers.vercel.app"
  }
 ]

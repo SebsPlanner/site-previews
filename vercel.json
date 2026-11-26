@@ -1,0 +1,75 @@
+{
+ "cleanUrls": true,
+ "rewrites": [
+  {
+   "source": "/:path*",
+   "has": [
+    {
+     "type": "host",
+     "value": "floralsslv.vercel.app"
+    }
+   ],
+   "destination": "/floralsslv/:path*"
+  },
+  {
+   "source": "/:path*",
+   "has": [
+    {
+     "type": "host",
+     "value": "madebyychloee.vercel.app"
+    }
+   ],
+   "destination": "/madebyychloee/:path*"
+  },
+  {
+   "source": "/:path*",
+   "has": [
+    {
+     "type": "host",
+     "value": "floresbymell.vercel.app"
+    }
+   ],
+   "destination": "/floresbymell-lv/:path*"
+  },
+  {
+   "source": "/:path*",
+   "has": [
+    {
+     "type": "host",
+     "value": "ramosbyjos.vercel.app"
+    }
+   ],
+   "destination": "/ramos-by-jos/:path*"
+  },
+  {
+   "source": "/:path*",
+   "has": [
+    {
+     "type": "host",
+     "value": "chulascreations.vercel.app"
+    }
+   ],
+   "destination": "/chulas-creations/:path*"
+  },
+  {
+   "source": "/:path*",
+   "has": [
+    {
+     "type": "host",
+     "value": "yamisflowers.vercel.app"
+    }
+   ],
+   "destination": "/yamis-flowers/:path*"
+  },
+  {
+   "source": "/:path*",
+   "has": [
+    {
+     "type": "host",
+     "value": "thedetailpluglv.vercel.app"
+    }
+   ],
+   "destination": "/thedetailpluglv/:path*"
+  }
+ ]
+}
