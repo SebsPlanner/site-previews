@@ -7,5 +7,59 @@
   "date": "2026-11-25",
   "status": "previewed",
   "source": "https://booksy.com/en-us/753638_thedetailpluglv_professional-services_29251_las-vegas"
+ },
+ {
+  "slug": "floralsslv",
+  "name": "Florals LV",
+  "instagram": "floralsslv",
+  "niche": "florist",
+  "date": "2026-11-25",
+  "status": "previewed",
+  "source": "instagram bio"
+ },
+ {
+  "slug": "madebyychloee",
+  "name": "Made Byy Chloe",
+  "instagram": "madebyychloee",
+  "niche": "florist",
+  "date": "2026-11-25",
+  "status": "previewed",
+  "source": "instagram bio"
+ },
+ {
+  "slug": "floresbymell-lv",
+  "name": "Flores by Mell",
+  "instagram": "floresbymell.lv",
+  "niche": "florist",
+  "date": "2026-11-25",
+  "status": "previewed",
+  "source": "instagram bio"
+ },
+ {
+  "slug": "ramos-by-jos",
+  "name": "Ramos by Jos",
+  "instagram": "ramos.by.jos__",
+  "niche": "florist",
+  "date": "2026-11-25",
+  "status": "previewed",
+  "source": "instagram bio"
+ },
+ {
+  "slug": "chulas-creations",
+  "name": "Chula's Creations",
+  "instagram": "chulascreationss",
+  "niche": "florist",
+  "date": "2026-11-25",
+  "status": "previewed",
+  "source": "instagram bio"
+ },
+ {
+  "slug": "yamis-flowers",
+  "name": "Yami's Flowers",
+  "instagram": "ramosby.yami",
+  "niche": "florist",
+  "date": "2026-11-25",
+  "status": "previewed",
+  "source": "instagram bio"
  }
 ]
