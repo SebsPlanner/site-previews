@@ -168,5 +168,105 @@
     "status": "found",
     "source": "web search (bio not verified - no Chrome)",
     "domain": "melxsweets.vercel.app"
+  },
+  {
+    "slug": "bloomqueenlv",
+    "name": "BLOOMQUEEN LLC",
+    "instagram": "bloomqueenlv",
+    "niche": "florist",
+    "date": "2026-11-27",
+    "status": "found",
+    "source": "web search (bio not verified - no Chrome)",
+    "domain": "bloomqueenlv.vercel.app"
+  },
+  {
+    "slug": "afroditaflowers",
+    "name": "Las Vegas Flowers Shop (Afrodita Flowers)",
+    "instagram": "afroditaflowers_lv",
+    "niche": "florist",
+    "date": "2026-11-27",
+    "status": "found",
+    "source": "web search (bio not verified - no Chrome)",
+    "domain": "afroditaflowers.vercel.app"
+  },
+  {
+    "slug": "bloomflowerslv",
+    "name": "Flowers For All Occasions (Bloom Flowers 702)",
+    "instagram": "bloomflowers702",
+    "niche": "florist",
+    "date": "2026-11-27",
+    "status": "found",
+    "source": "web search (bio not verified - no Chrome)",
+    "domain": "bloomflowerslv.vercel.app"
+  },
+  {
+    "slug": "rosesbyag",
+    "name": "Roses by AG",
+    "instagram": "rosesbyag",
+    "niche": "florist",
+    "date": "2026-11-27",
+    "status": "found",
+    "source": "web search (bio not verified - no Chrome)",
+    "domain": "rosesbyag.vercel.app"
+  },
+  {
+    "slug": "lvfloralandsweets",
+    "name": "Las Vegas Floral & Sweets",
+    "instagram": "lasvegasfloralandsweets",
+    "niche": "florist",
+    "date": "2026-11-27",
+    "status": "found",
+    "source": "web search (bio not verified - no Chrome)",
+    "domain": "lvfloralandsweets.vercel.app"
+  },
+  {
+    "slug": "desertflowersboutique",
+    "name": "Desert Flowers Boutique",
+    "instagram": "desertflowersboutique.lv",
+    "niche": "florist",
+    "date": "2026-11-27",
+    "status": "found",
+    "source": "web search (bio not verified - no Chrome)",
+    "domain": "desertflowersboutique.vercel.app"
+  },
+  {
+    "slug": "hendersonsflowers",
+    "name": "Henderson's Flowers",
+    "instagram": "hendersonsflowers",
+    "niche": "florist",
+    "date": "2026-11-27",
+    "status": "found",
+    "source": "web search (bio not verified - no Chrome)",
+    "domain": "hendersonsflowers.vercel.app"
+  },
+  {
+    "slug": "expresaconrosas",
+    "name": "Expresa Con Rosas",
+    "instagram": "expresaconrosaslv",
+    "niche": "florist",
+    "date": "2026-11-27",
+    "status": "found",
+    "source": "web search (bio not verified - no Chrome)",
+    "domain": "expresaconrosas.vercel.app"
+  },
+  {
+    "slug": "fandfflowers",
+    "name": "F&F FLOWERS LLC",
+    "instagram": "fandfflowers",
+    "niche": "florist",
+    "date": "2026-11-27",
+    "status": "found",
+    "source": "web search (bio not verified - no Chrome)",
+    "domain": "fandfflowers.vercel.app"
+  },
+  {
+    "slug": "nvflorist",
+    "name": "NV Florist",
+    "instagram": "nv_florist",
+    "niche": "florist",
+    "date": "2026-11-27",
+    "status": "found",
+    "source": "web search (bio not verified - no Chrome)",
+    "domain": "nvflorist.vercel.app"
   }
 ]
